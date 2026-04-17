@@ -35,4 +35,3 @@ The final dataset is publicly available on [Hugging Face → VSMRC](https://hugg
 - Ready-to-run main entry points (`wiki_headers_main.py` and `question_generator_main.py`).
 - Human-in-the-loop validation support.
 
-## Directory Structure
